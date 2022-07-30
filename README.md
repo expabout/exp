@@ -1,7 +1,7 @@
 # project collection
  关于课程项目的介绍
 
- 1.小组成员：李熙平 git名称frog，内容独自完成
+ 1.小组成员：李熙平 git名称expabout，内容独自完成
 
  2.完成了sm2、sm3、bitcoin和zk部分的内容
 
@@ -17,6 +17,12 @@
  - forge a signature to pretend that you are Satoshi (Satoshi Nakamoto.py)
  - Write a circuit to prove that your CET6 grade is       larger than 425. (zk.py)
   
-  4.运行结果
+ 4.运行结果
 
- ![图片]()
+ 按项目结果展示，其中Rho methon of reduced SM3以及birthday attack of reduced SM3由于时间复杂度过高，没有运行结果。
+ ![图片](1.png)
+ ![图片](2.png)
+ ![图片](3.png)
+ ![图片](4.png)
+ ![图片](5.png)
+ ![图片](6.png)
